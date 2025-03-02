@@ -1,5 +1,7 @@
 # Tanki - Terminal-Based Spaced Repetition System
 
+![banner](./assets/banner.png)
+
 Tanki is a **terminal-based flashcard application** inspired by Anki, built using **ncurses**.  
 It supports **spaced repetition**, **multiple decks**, **CSV import**, **card deletion**, and more.
 
